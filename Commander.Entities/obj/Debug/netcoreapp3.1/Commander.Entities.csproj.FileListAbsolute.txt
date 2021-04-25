@@ -1,0 +1,9 @@
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\bin\Debug\netcoreapp3.1\Commander.Entities.deps.json
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\bin\Debug\netcoreapp3.1\Commander.Entities.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\bin\Debug\netcoreapp3.1\Commander.Entities.pdb
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.csprojAssemblyReference.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Entities\obj\Debug\netcoreapp3.1\Commander.Entities.pdb

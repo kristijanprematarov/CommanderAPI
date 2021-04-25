@@ -1,0 +1,14 @@
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Repository.deps.json
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Repository.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Repository.pdb
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Entities.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Entities.pdb
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.csprojAssemblyReference.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.csproj.CopyComplete
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\obj\Debug\netcoreapp3.1\Commander.Repository.pdb
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Data.dll
+C:\Users\Kristijan\source\repos\Commander\Commander.Repository\bin\Debug\netcoreapp3.1\Commander.Data.pdb
